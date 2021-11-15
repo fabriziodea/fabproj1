@@ -76,4 +76,4 @@ The coverage reports, showing what percentage of statements were included in the
 
 ![Coverage Report](https://github.com/fabriziodea/fabproj1/blob/master/Images/CovReport1511.png)
 
-Showing 98% coverage overall. All tests must pass for a build to be successful, a single failed test marks the build overall as failed.
+Showing 99% coverage overall. All tests must pass for a build to be successful, a single failed test marks the build overall as failed.
